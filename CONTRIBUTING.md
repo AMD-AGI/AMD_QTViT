@@ -1,4 +1,4 @@
-# Contributing to ALTO
+# Contributing to QTViT
 Thanks for your interest in contributing.
 
 ## Reporting Issues
